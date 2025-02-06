@@ -167,9 +167,6 @@ I am Yeraldo, a student and tech enthusiast with a passion for software developm
   
   
 ### 🥅 Others:
-
-<a href="https://httpd.apache.org" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>
-<a href="https://tomcat.apache.org" target="_blank"><img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black"></a>
 <a href="https://www.anaconda.com" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white"></a>
 <a href="https://www.djangoproject.com" target="_blank"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>
 <a href="https://numpy.org" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
