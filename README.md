@@ -192,10 +192,7 @@ I am Yeraldo, a student and tech enthusiast with a passion for software developm
 [![](https://github-readme-stats.vercel.app/api?username=YeraldoCode&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/YeraldoCode)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=YeraldoCode&theme=material-palenight)](https://github.com/YeraldoCode)
 </div>
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/YeraldoCode/YeraldoCode/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+
 
 #### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
 
