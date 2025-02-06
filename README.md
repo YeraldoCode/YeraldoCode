@@ -1,8 +1,8 @@
-<h1><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50"/> Hi there, I'm Yeraldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1>Hi there, I'm Yeraldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <img align="right" width=300px alt="Penguin" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVldHN5cHU4a2cwbGRueGJ6ODQweG5kZzFvOHgzanRsbTg2MGY3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="30px">&nbsp;***About me***
 I am Yeraldo, a student and tech enthusiast with a passion for software development. I am a BIS student in Information Technology, specializing in Cross-Platform Software Development. I am passionate about technology, engineering, and continuous evolution. I learn quickly and adapt well to different environments and teams. I have a good level of English, sufficient for following instructions, and I am working on improving my speaking fluency. I enjoy teamwork and have experience in collaborative projects; my team and I won first place in our university's integrative project. I have experience developing applications and have worked on several projects from my room. I am always looking for new opportunities to apply and expand my software development knowledge   
 
 
