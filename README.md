@@ -7,12 +7,6 @@ I am Yeraldo, a student and tech enthusiast with a passion for software developm
 <br>
 
 
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
-
-<br>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
  
