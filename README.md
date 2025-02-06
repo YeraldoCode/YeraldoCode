@@ -1,6 +1,6 @@
 <h1><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50"/> Hi there, I'm Yeraldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW02eXoxbTh5bGsxanBiZmwyZ2hoZTdmeTE4bmR3Mnk5b2d1ajRocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" height="180px"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVldHN5cHU4a2cwbGRueGJ6ODQweG5kZzFvOHgzanRsbTg2MGY3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" height="180px"/>
 </div>
 
 
