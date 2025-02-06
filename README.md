@@ -1,6 +1,5 @@
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Yeraldo!](https://YeraldoCode.com) 👋
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Yeraldo!](https://YeraldoCode.com)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-**YeraldoCode/YeraldoCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
