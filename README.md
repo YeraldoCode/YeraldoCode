@@ -6,14 +6,6 @@ I am Yeraldo, a student and tech enthusiast with a passion for software developm
 
 <br>
 
-  
-
-
- -  🔭 I’m currently working on something cool 😉
-
-- 👯 I’m looking forward to collaborate on python projects.
-
-- 🌱 Learning about Computer Vision and Machine Learning stuff
 
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
