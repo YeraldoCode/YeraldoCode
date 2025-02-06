@@ -1,6 +1,6 @@
 <h1><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50"/> Hi there, I'm Yeraldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+    <img src="https://giphy.com/gifs/dreamworks-funny-lol-mood-Uqe8ViIMzyQtcqmFKs" height="120px" />
 </div>
 
 
