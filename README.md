@@ -24,14 +24,9 @@ I am Yeraldo, a student and tech enthusiast with a passion for software developm
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://x.com/YerAlexxx">
+ <a href="https://x.com/YeraldoCoode">
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
-
- <a href="https://www.instagram.com/yeraldodev/">
- <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
- </a>
-
 
  
  <a href="mailto:yeramtza@gmail.com">
