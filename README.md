@@ -1,4 +1,7 @@
 <h1><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50"/> Hi there, I'm Yeraldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
 
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
@@ -191,9 +194,6 @@ I am Yeraldo, a student and tech enthusiast with a passion for software developm
 
 [![](https://github-readme-stats.vercel.app/api?username=YeraldoCode&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/YeraldoCode)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=YeraldoCode&theme=material-palenight)](https://github.com/YeraldoCode)
-</div>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
 
 
