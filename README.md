@@ -185,6 +185,14 @@ I am Yeraldo, a student and tech enthusiast with a passion for software developm
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
 
+<br>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=YeraldoCode&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/YeraldoCode)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=YeraldoCode&theme=material-palenight)](https://github.com/YeraldoCode)
+</div>
+
 
 #### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
 
