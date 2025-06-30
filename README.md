@@ -11,7 +11,7 @@ I am Yeraldo, a student and tech enthusiast with a passion for software developm
 
  
  
-<br>
+
 
 <p align="center"><!-----Social Accounts------>
 
