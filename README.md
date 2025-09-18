@@ -13,31 +13,8 @@ I am Yeraldo, a student and tech enthusiast with a passion for software developm
  
 
 
-<p align="center"><!-----Social Accounts------>
-
-<p align="center">
- <a href="">
- <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
-
- <a href="https://www.linkedin.com/in/yeraldo-avila/">
- 
- <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
- <a href="https://x.com/YeraldoCoode">
- <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
- </a>
-
- 
- <a href="mailto:yeramtza@gmail.com">
- <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
-</p>
 
 
-
-<br>
 
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
