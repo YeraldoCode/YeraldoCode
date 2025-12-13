@@ -3,7 +3,7 @@
 <img align="right" width=300px alt="Penguin" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVldHN5cHU4a2cwbGRueGJ6ODQweG5kZzFvOHgzanRsbTg2MGY3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
 
 <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="30px">&nbsp;<b>About me</b><br>
-I am Yeraldo, a student and tech enthusiast with a passion for software development. I am Developer Jr with Python focused on web and desktop application development.
+I am Yeraldo, a student and tech enthusiast with a passion for software development. I am Developer Jr with JavaScript focused on web.
 
 
 
