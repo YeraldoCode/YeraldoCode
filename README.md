@@ -9,7 +9,6 @@ Soy un estudiante de ingenieria en Desarrollo y Gestion de Software. Me especial
 
 * Actualmente trabajando en mejorar mis habilidades en **React** y **TypeScript**.
 *  Aprendiendo constantemente sobre arquitectura de software y mejores prácticas.
-* ⚡ Tech enthusiast por naturaleza.
 
 ---
 
