@@ -45,7 +45,4 @@ Soy un estudiante de ingenieria en Desarrollo y Gestion de Software. Me especial
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeraldoCode&layout=compact&theme=radical" />
 </p>
 
----
-<p align="center">
-  Desarrollado con ❤️ por Yeraldo
-</p>
+
